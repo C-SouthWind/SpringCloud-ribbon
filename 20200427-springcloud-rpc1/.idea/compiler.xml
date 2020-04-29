@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="20200427-springcloud-rpc1-consumer" />
+        <module name="20200428-springcloud-eureka-management-7084" />
+        <module name="20200428-springcloud-eureka-management-7083" />
+        <module name="20200428-springcloud-eureka-management-7082" />
+        <module name="20200428-springcloud-ribbon-provider-8082" />
+        <module name="20200428-springcloud-ribbon-provider-8083" />
+        <module name="20200428-springcloud-ribbon-provider-8084" />
+        <module name="20200427-springcloud-ribbon-provider01" />
+        <module name="20200427-springcloud-rpc1-management-mapper" />
+        <module name="20200428-springcloud-ribbon-consumer" />
+        <module name="20200427-springcloud-rpc1-provider" />
+        <module name="20200427-springcloud-rpc1-management-model" />
+        <module name="20200428-springcloud-eureka-management-danji" />
+        <module name="20200428-springcloud-ribbon-8082" />
+        <module name="20200427-springcloud-rpc1-management-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="20200427-springcloud-ribbon-provider01" target="1.5" />
+      <module name="20200428-springcloud-ribbon-8082" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
