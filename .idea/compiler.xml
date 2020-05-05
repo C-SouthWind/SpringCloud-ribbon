@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ribbon-provider-8084" />
+        <module name="ribbon-mapper" />
+        <module name="ribbon-model" />
+        <module name="ribbon-NoEureka" />
+        <module name="ribbon-eureka" />
+        <module name="ribbon-service" />
+        <module name="ribbon-provider-8082" />
+        <module name="ribbon-provider-8083" />
+        <module name="eureka-danji-7081" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
